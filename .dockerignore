@@ -1,0 +1,7 @@
+.venv
+__pycache__
+.env
+clinic.db
+vector_store
+.pytest_cache
+.git

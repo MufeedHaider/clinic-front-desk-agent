@@ -1,0 +1,17 @@
+[
+  {"q": "What are the clinic's opening hours on weekdays?", "source": "01_about_and_hours.md"},
+  {"q": "Is the clinic open on Sunday?", "source": "01_about_and_hours.md"},
+  {"q": "Where is the clinic located and is there parking?", "source": "01_about_and_hours.md"},
+  {"q": "Do you handle emergencies?", "source": "01_about_and_hours.md"},
+  {"q": "How much does a dermatologist consultation cost?", "source": "02_services_and_fees.md"},
+  {"q": "Which payment methods do you accept?", "source": "02_services_and_fees.md"},
+  {"q": "What is the fee for a follow-up visit?", "source": "02_services_and_fees.md"},
+  {"q": "How long do lab results take?", "source": "02_services_and_fees.md"},
+  {"q": "What documents should I bring to my appointment?", "source": "03_appointment_policy.md"},
+  {"q": "What happens if I arrive late?", "source": "03_appointment_policy.md"},
+  {"q": "Can I cancel my appointment for free?", "source": "03_appointment_policy.md"},
+  {"q": "Can my child see the doctor alone?", "source": "03_appointment_policy.md"},
+  {"q": "How many hours should I fast before a sugar test?", "source": "04_test_preparation.md"},
+  {"q": "Should I take my regular medicines before blood tests?", "source": "04_test_preparation.md"},
+  {"q": "Can the assistant explain my test results?", "source": "04_test_preparation.md"}
+]
