@@ -13,6 +13,9 @@ EMERGENCY_PATTERNS = [
     r"chest pain", r"can'?t breathe", r"cannot breathe", r"difficulty breathing", r"short(ness)? of breath",
     r"unconscious", r"fainted", r"severe bleeding", r"bleeding heavily", r"seizure", r"stroke",
     r"heart attack", r"overdose", r"suicid", r"kill myself", r"poison",
+    # Roman Urdu (the clinic's patients also write this way)
+    r"seene\s+m(ein|e)\s+dard", r"s(a|aa)ns\s+n(ahi|ahin)", r"behosh", r"dil\s+ka\s+daura",
+    r"khoon\s+(beh|bah)", r"zeher", r"khud\s?kushi",
 ]
 EMERGENCY_REPLY = (
     "This sounds like it could be an emergency. Please call your local emergency number or go to the "
